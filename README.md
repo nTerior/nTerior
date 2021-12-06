@@ -4,7 +4,7 @@ I like coding.
 
 ...
 
-Anyway, here's a sierpiński triangle
+Anyway, here's a Sierpiński triangle
 ```
                                █                               
                               █ █                              
