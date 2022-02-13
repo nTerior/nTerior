@@ -1,6 +1,6 @@
-Hey, I'm cephox.
+Hey, I'm nTerior.
 
-I like coding.
+I code.
 
 ...
 
