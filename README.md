@@ -1,6 +1,6 @@
 Hey, I'm nTerior.
 
-I code.
+I like C.
 
 ...
 
