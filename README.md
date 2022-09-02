@@ -2,6 +2,8 @@ Hey, I'm nTerior.
 
 I like C.
 
+My current project: [fox](https://github.com/nTerior/fox), a command-line hex editor
+
 ...
 
 Anyway, here's a Sierpiński triangle
