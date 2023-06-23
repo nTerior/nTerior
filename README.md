@@ -3,7 +3,7 @@
 
 <p align="center">
   <i>
-    Currently working on <a href="https://github.com/nTerior/unsued.particles">unused.particles</a>,<br/>
+    Currently working on <a href="https://github.com/nTerior/unused.particles">unused.particles</a>,<br/>
     a scriptable particle engine
   </i>
 </p>
