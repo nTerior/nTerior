@@ -3,9 +3,8 @@
 
 <p align="center">
   <i>
-    Currently working on <a href="https://github.com/nTerior/CoinLog">Coin Log</a>,<br/>
-    while honing my skills in Dart and Flutter.<br/><br/>
-    Open for collaboration on interesting (and unique) projects.
+    Currently working on <a href="https://github.com/nTerior/unsued.particles">unused.particles</a>,<br/>
+    a scriptable particle engine
   </i>
 </p>
 
