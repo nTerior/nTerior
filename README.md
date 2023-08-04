@@ -3,7 +3,7 @@
 
 <p align="center">
   <i>
-    Currently working on <a href="https://github.com/nTerior/unused-particles">unused-particles</a>.<br/>
+    Currently working on <a href="https://github.com/nTerior/familyo">Familyo</a>.<br/>
   </i>
 </p>
 
