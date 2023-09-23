@@ -3,16 +3,9 @@
 
 <p align="center">
   <i>
-    Currently working on <a href="https://github.com/nTerior/familyo">Familyo</a>.<br/>
   </i>
 </p>
 
-### My Projects:
-
-##### Familyo
-[![Familyo](https://svg.bookmark.style/api?url=https://github.com/nTerior/familyo&mode=dark&style=notion)](https://github.com/nTerior/familyo)
-##### Gravitation Simulation
-[![Grav Sim](https://svg.bookmark.style/api?url=https://github.com/nTerior/GravSim&mode=dark&style=notion)](https://github.com/nTerior/GravSim)
 
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left">
